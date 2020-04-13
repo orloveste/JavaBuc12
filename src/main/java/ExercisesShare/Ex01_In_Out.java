@@ -20,5 +20,6 @@ public class Ex01_In_Out {
         System.out.println("The form for "+firstName+" is completed. We will contact " +
                 "you if we need a chef that cooks "+cuisinePreference+" dishes.");
 
+
     }
 }
